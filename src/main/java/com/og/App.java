@@ -3,7 +3,8 @@ package com.og;
 import org.apache.commons.lang3.StringEscapeUtils;
 
 /**
- * Our sandbox code2222
+ * Hello world!
+ *
  */
 public class App 
 {
