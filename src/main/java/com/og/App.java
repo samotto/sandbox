@@ -10,6 +10,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println(StringEscapeUtils.escapeHtml4("here is a <p> tag"));
+        System.out.println(StringEscapeUtils.escapeHtml4("here is a <p> tag. Added some more text"));
     }
 }
